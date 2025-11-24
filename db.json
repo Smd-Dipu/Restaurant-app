@@ -1,0 +1,36 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "Admin@123"
+  },
+  "reservations": [
+    {
+      "id": "4ec9",
+      "name": "Test User Updated",
+      "phone": "555-9876",
+      "date": "2025-11-30",
+      "guests": "2 People"
+    },
+    {
+      "id": "a42d",
+      "name": "Dipu",
+      "phone": "01789525053",
+      "date": "2025-11-24",
+      "guests": "2 People"
+    },
+    {
+      "id": "f46a",
+      "name": "Tarikul",
+      "phone": "01517806988",
+      "date": "2025-11-25",
+      "guests": "4 People"
+    },
+    {
+      "id": "19f1",
+      "name": "Anupam baroi",
+      "phone": "01623993434",
+      "date": "2025-11-25",
+      "guests": "2 People"
+    }
+  ]
+}
